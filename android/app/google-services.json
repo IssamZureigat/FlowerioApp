@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "517727122575",
+    "project_id": "flowerio-app",
+    "storage_bucket": "flowerio-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517727122575:android:88eb0fd14e69923c7a6cfa",
+        "android_client_info": {
+          "package_name": "com.example.flowerio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517727122575-jr8702jq72d3fu7o6qmsmu9dnrgp3ar1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPUM__kag6geUXnwQhj_k_tBhMLE9KDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517727122575-jr8702jq72d3fu7o6qmsmu9dnrgp3ar1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517727122575-ud8p8j178b6pt6183me3m91k42gb6843.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowerioApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
