@@ -17,7 +17,7 @@ class LogInButton extends StatelessWidget {
         height: 60,
         width: SizeConfig.screenWidth,
         decoration: BoxDecoration(
-          color:kMainColor,
+          color: Color.fromARGB(255, 13, 43, 46),
           borderRadius: BorderRadius.circular(8),
         ),
         child: Center(
